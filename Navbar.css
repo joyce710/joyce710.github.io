@@ -1,0 +1,21 @@
+.navbar{
+  display:flex;
+  background:#353242;
+  height:50px;
+  list-style-type:none;
+  padding:0px
+ 
+}
+.navbar li{
+  left:0px;
+  padding:10px;
+  justyfy-content:flex-start;
+  text-align: center;
+}
+.navbar li a{
+  color:white;
+  font-size:15px;
+}
+.navbar li:hover {
+  background: green;
+  }
